@@ -54,3 +54,38 @@ li a:hover{
     margin-left: 5em;
     color: rgb(250, 245, 245);
 }
+.projects{
+    margin-top: 4em;
+}
+.projects h2{
+    margin-left: 45%;
+    font-size: xx-large;
+    margin-bottom: 2em;
+}
+.projects span{
+    color: orange;
+}
+.myProject img{
+    width: 50%;
+}
+.myProject{
+    display: flex;
+    justify-content: space-between;
+}
+.myProject h3{
+    margin-top: 5em;
+    margin-left: 3em;
+}
+.myProject p{
+    font-weight: 900;
+}
+.myProject a{
+    text-decoration: none;
+    color: black;
+}
+.myProject a:hover{
+    color: orange;
+}
+.project2Desc{
+    margin-left: 5em;
+}
