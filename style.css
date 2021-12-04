@@ -23,3 +23,21 @@ ul{
     color: orange;
     font-size: x-large;
 }
+.About{
+    background-color: orange;
+}
+.About h2{
+    margin-left: 45%;
+    padding-top: 2em;
+    margin-bottom: 2em;
+}
+.About h2 span{
+    color: rgb(250, 246, 246);
+}
+.About h3{
+    margin-left: 2em;
+}
+.About p{
+    margin-left: 5em;
+    color: rgb(250, 245, 245);
+}
