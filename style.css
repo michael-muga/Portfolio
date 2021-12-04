@@ -10,13 +10,25 @@ li a{
 ul{
     margin-left: 70%;
 }
+li a:hover{
+    text-decoration: underline 4px orange;
+}
+.introText span{
+    color: orange;
+}
+.introText{
+    margin-top: 3em;
+    margin-bottom: 3em;
+    margin-left: 7em;
+    font-size: x-large;
+}
 .details{
     display: flex;
     justify-content: center;
     justify-content: space-between;
     margin-right: 30%;
     margin-left: 30%;
-    box-shadow: 4px 4px 4px rgb(116, 113, 113);
+    box-shadow: 2px 2px 4px rgb(116, 113, 113);
     border-radius: 20px;
 }
 .details span{
