@@ -1,10 +1,7 @@
 # Portfolio
 by Michael Muga
 
-![Project Image](images/Screenshot from 2021-12-05 18-20-50.png)
-![Project Image](images/Screenshot from 2021-12-05 18-21-13.png)
-![Project Image](images/Screenshot from 2021-12-05 18-21-28.png)
-![Project Image](images/Screenshot from 2021-12-05 18-21-42.png)
+![Project Image](images/projectimg1.png)
 
 # Table of content
 
