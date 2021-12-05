@@ -89,3 +89,28 @@ li a:hover{
 .project2Desc{
     margin-left: 5em;
 }
+.online img{
+    height: 50px;
+}
+.online{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0.5em 0.5em 1em rgb(219, 188, 129);
+    border-radius: 18px;
+}
+.contacts{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3em;
+}
+.online a:hover{
+    box-shadow: 00 00 1em orange;
+}
+.offline h3{
+    font-size: x-large;
+}
+.offline p{
+    margin-left: 2em;
+}
