@@ -22,8 +22,7 @@ To install or access this website you need:
 ### Installation Process
 
 Click on the link provided bellow to view the site.
-https://michael-muga.github.io/Letuce_Eat/
-
+https://michael-muga.github.io/Portfolio/
 ## Technology Used
 Html- used to structure this website
 Css- used to style the website
