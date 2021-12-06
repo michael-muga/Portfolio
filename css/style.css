@@ -166,4 +166,7 @@ li a:hover{
         margin-right: 5%;
         margin-left: 5%;
     }
+    *{
+        font-size: small;
+    }
 }
